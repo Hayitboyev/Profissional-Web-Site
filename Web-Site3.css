@@ -1,0 +1,21 @@
+body {
+	width: 100%;
+	height: 100vh;
+	background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(photo3.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1, h3, label {
+	color: #fa4659;
+    text-shadow: 2px 2px 4px cyan;
+}
+input {
+	color: blue;
+    text-shadow: 2px 2px 4px red;
+}
+h1 {
+	text-align: center;
+}
+.submit {
+	background-color: aqua;
+}
